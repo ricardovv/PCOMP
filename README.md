@@ -1,4 +1,4 @@
-# Hola Pensamiento Computacional 2025-A  
+# Hola Pensamiento Computacional 2025-B  
 
 **Repo de tareas y ejercicios para clase de Pensamiento Computacional, Escuela de la Diseño, Pontificia Universidad Católica de Chile.**.  
 
@@ -9,11 +9,11 @@ En estew repositorio iremos dejando material de los ejercicios. Entonces deben i
 En este curso los estudiantes aplicarán los conceptos básicos del trabajo con lenguajes de programación para el diseño y disciplinas creativas. En este contexto, analizarán distintos casos de usos del lenguaje computacional y el potencial que ofrecen para las disciplinas creativas. Se espera que los estudiantes apliquen los conocimientos en ejercicios prácticos breves y sean capaces de crear un programa computacional que les permita iniciar una exploración conceptual y técnica para integrar en sus propios proyectos y áreas de interés. 
 
 
-**Clases:** Viernes - 8:20 a 10:50. Sala Isabel Baixas (edificio nuevo).  
+**Clases:** Viernes - 8:20 a 10:50. Auditorio FADEU (Patio de Madera).     
 **Profesores:** Francisco Rebolledo, Ricardo Vega M.  
 
-**Ayudantía:** Viernes - 11:00 a 12:20. Sala Refectorio (Patio de los Naranjos).   
-**Ayudantes:** Isaías López, Catalina Seguel, Santiago Viana, Miguel Luengo.  
+**Ayudantía:** Viernes - 11:00 a 12:20. por definir. 
+**Ayudantes:** Catalina Seguel, Santiago Viana. 
 
 
 ## MÓDULOS
