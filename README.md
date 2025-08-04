@@ -23,10 +23,39 @@ En este curso los estudiantes aplicarán los conceptos básicos del trabajo con 
 1b- Hardware-software.  
 
 **M2- Medios en el Computador (5 Sesiones)**.  
-2a- Medios A: Texto 
-2b- Medios B: Imagen y Video 
+2a- Medios A: Texto  
+2b- Medios B: Imagen y Video  
 
-**3- Datos y Aprendizaje de Máquina (5 Sesiones + 1 entrega final)**.    
-3a- Datos 
-3b- Aprendizaje De Máquina 
+**M3- Datos y Aprendizaje de Máquina (5 Sesiones + 1 entrega final)**.    
+3a- Datos  
+3b- Aprendizaje De Máquina  
 
+
+## LECTURAS 2025A 
+
+Lecturas obligatorias y complementarias. Pueden variar según semestre. 
+ 
+**L01**  
+–"What is Code?". Libro "Form and Code" (C. Reas, Ch. McWilliams, LUST). Obligatorio.   
+–"El lenguaje como material". Libro "Uncreative Writting - Managing Language in the Digital Age." (Kenneth Goldsmith). Complementario.   
+–"A Manifesto for Postindustrial Design" (Jamer Hunt). Complementario.   
+
+**L02**  
+–"Filosofía de la mente: Visión panorámica y situación actual" (Carlos Beorlegui). Obligatorio.   
+–“El saber, para quien lo necesita”. Entrevista a Antonio Lafuente. Publico.es  
+
+**L03**   
+–"Mito de la Hormiga Reina". Libro "Emergencia: O qué tienen en común hormigas, neuronas, ciudades y software" (Steven Johnson).    Obligatorio.   
+–"Del crecimiento y la forma". Libro "Masa Crítica" (Philip Ball). Complementario.   
+
+**L04**   
+–"Analítica Cultural" (Lev Manovich). Obligatorio.   
+–"Systems Aesthetics" (Jack Burnham). Complementario.   
+
+**L05**   
+–"Datos, ciencia y sociedad en el sXXI" (Claudio Gutierrez). Obligatorio.   
+–"Scale free networks" Revista Scientific America (Laslo Barabasi, Eric Bonabeau). Complementario.   
+
+**L06**   
+–"Filosofía de la Mente e Inteligencia Artificial" UNAM (Carlos Gershenson). Obligatorio.   
+–"Art, Creativity, and the Potential of Artificial Intelligence." (Marian Mazzone, Ahmed Elgammal). Complementario.    
