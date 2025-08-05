@@ -16,19 +16,32 @@ En este curso los estudiantes aplicarán los conceptos básicos del trabajo con 
 **Ayudantes:** Catalina Seguel, Santiago Viana. 
 
 
-## MÓDULOS
+## MÓDULOS & SESIONES (tentativo)
+
+Puede sufrir modificaciones según avansa el semestre). 
 
 **M1- Introducción al Pensamiento Computacional (5 Sesiones)**.  
-1a– Bases De La Computación.   
-1b- Hardware-software.  
+s01: Presentación Curso.  
+s02: Qué Es Pensar.  
+s03: Hist. Computación General, Hist. Computación Chile.  
+s04: ¿Qué es computar: procesar señales y símbolos.  
+s05: Hardware-Software.   
+s06: P01 Presentaciones.   
 
 **M2- Medios en el Computador (5 Sesiones)**.  
-2a- Medios A: Texto  
-2b- Medios B: Imagen y Video  
+s07: Panorama Computación, Arte y Diseño. Como funciona la web.  
+s08: Texto Y Computador: Análisis de Texto y NLP.   
+s09: Imagen Y Computador: Pixeles y más pixeles.  
+s10. Sonido Y Video: Señales y Sistemas. 
+s11: Entrega P02.  
 
 **M3- Datos y Aprendizaje de Máquina (5 Sesiones + 1 entrega final)**.    
-3a- Datos  
-3b- Aprendizaje De Máquina  
+s12: Datos: Formatos y Tipos.   
+s13: CLASE: Datos: Analisis y Visualización. Actividad Rawgraphs.    
+s14: Datos: Network Science y Redes Complejas.  
+s15: Machine Learning, el verdadero nombre de Inteligencia Artificial.  
+s16: P03 Presentaciones.   
+
 
 
 ## LECTURAS 2025A 
@@ -59,3 +72,4 @@ Lecturas obligatorias y complementarias. Pueden variar según semestre.
 **L06**   
 –"Filosofía de la Mente e Inteligencia Artificial" UNAM (Carlos Gershenson). Obligatorio.   
 –"Art, Creativity, and the Potential of Artificial Intelligence." (Marian Mazzone, Ahmed Elgammal). Complementario.    
+
