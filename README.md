@@ -9,17 +9,15 @@ En este repositorio iremos dejando material de los ejercicios. Entonces deben ir
 En este curso los estudiantes aplicarán los conceptos básicos del trabajo con lenguajes de programación para el diseño y disciplinas creativas. En este contexto, analizarán distintos casos de usos del lenguaje computacional y el potencial que ofrecen para las disciplinas creativas. Se espera que los estudiantes apliquen los conocimientos en ejercicios prácticos breves y sean capaces de crear un programa computacional que les permita iniciar una exploración conceptual y técnica para integrar en sus propios proyectos y áreas de interés. 
 
 
-**Clases:** Viernes - 8:20 a 10:50. Auditorio FADEU (Patio de Madera).     
+**Clases:** Viernes - 8:20 a 10:50. Auditorio Fernando Castillo Velasco.     
 **Profesores:** Francisco Rebolledo, Ricardo Vega M.  
 
-**Ayudantía:** Viernes - 11:00 a 12:20. por definir. 
-**Ayudantes:** Catalina Seguel, Santiago Viana. 
-
-Catalina Seguel, Santiago viana, Fernando Concha, Ariadna Feuerstein Aguayo. 
+**Ayudantía:** Viernes - 11:00 a 12:20. Auditorio Fernando Castillo Velasco.   
+**Ayudantes:** Catalina Seguel, Santiago Viana, Fernando Concha, Ariadna Feuerstein Aguayo.  
 
 ## MÓDULOS & SESIONES (tentativo)
 
-Puede sufrir modificaciones según avanza el semestre. 
+Puede sufrir modificaciones según avanza el semestre.  
 
 **M1- Introducción al Pensamiento Computacional (5 Sesiones)**.  
 s01: Presentación Curso.  
