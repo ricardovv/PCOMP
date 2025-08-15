@@ -1,1 +1,0 @@
-por borrar en online
