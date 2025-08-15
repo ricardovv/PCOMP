@@ -2,7 +2,7 @@
 
 **Repo de tareas y ejercicios para clase de Pensamiento Computacional, Escuela de la Diseño, Pontificia Universidad Católica de Chile.**.  
 
-En estew repositorio iremos dejando material de los ejercicios. Entonces deben ir bajando estas mediante git pull desde su terminal o cmd. Al bajar la base del ejercicio de la semana, subanlo a su Drive y ábranlo con Colab para desarrollarlo allí. Al completarlo, lo descargan y entregan, y no olviden cambiar nombre y título. Pueden ver más referencias a comandos GIT en el archivo REFERENCIAS_GITHUB.   
+En este repositorio iremos dejando material de los ejercicios. Entonces deben ir bajando estas mediante git pull desde su terminal o cmd. Al bajar la base del ejercicio de la semana, súbanlo a su Drive y ábranlo con Colab para desarrollarlo allí. Al completarlo, lo descargan y entregan en la carpeta correspondiente. Y no olviden cambiar nombre y título. Pueden ver más referencias a comandos GIT en el archivo REFERENCIAS_GITHUB.   
 <br> 
 
 ## I. DESCRIPCIÓN DEL CURSO 
@@ -15,10 +15,11 @@ En este curso los estudiantes aplicarán los conceptos básicos del trabajo con 
 **Ayudantía:** Viernes - 11:00 a 12:20. por definir. 
 **Ayudantes:** Catalina Seguel, Santiago Viana. 
 
+Catalina Seguel, Santiago viana, Fernando Concha, Ariadna Feuerstein Aguayo. 
 
 ## MÓDULOS & SESIONES (tentativo)
 
-Puede sufrir modificaciones según avansa el semestre). 
+Puede sufrir modificaciones según avanza el semestre. 
 
 **M1- Introducción al Pensamiento Computacional (5 Sesiones)**.  
 s01: Presentación Curso.  
@@ -44,7 +45,7 @@ s16: P03 Presentaciones.
 
 
 
-## LECTURAS 2025A 
+## LECTURAS 2025B 
 
 Lecturas obligatorias y complementarias. Pueden variar según semestre. 
  
