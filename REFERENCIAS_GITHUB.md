@@ -148,3 +148,13 @@ Recuerden que deben estar en su carpeta del repositorio para que funcionen.
 Les dejo este link si queren saber algo más:  
 **Git pull explicado** 
 https://www.freecodecamp.org/espanol/news/git-pull-explicado/
+
+
+**No dar seguimiento a un archivo**. 
+Estpo para que no aparezca en el github (online) pero si puede estar en el local. Hacer esto en el repositorio local y luego subir: 
+- Colocar el nombre de archivo en el archivo .gitignore
+- Subir el archivo al repositorio de git hub (git add, git commit, got push orogon main...)
+– remover del repo online (github) con: git rm --cached nombredearchivo.xxx
+- hacer un git commit: git commit -m "removeiendo nombredearchivo.xxx"
+- subir el cambio con git push origin main
+- ir al repo de github y confirmar el cambio. 
