@@ -6,7 +6,7 @@ M01_Ejercicios/.DS_Store
 M02_Ejercicios/.DS_Store
 M02_Ejercicios/P03_ejemplo/.DS_Store
 # M03 - - - 
-M03_Ejercicios/P03_ejemplo/.DS_Store
 M03_Ejercicios/.DS_Store
+M03_Ejercicios/P03_ejemplo/.DS_Store
 M03_Ejercicios/e11_datos_sucios/.DS_Store
 M03_Ejercicios/e12_datos_vis_anscombe/.DS_Store
