@@ -1,4 +1,4 @@
-# Hola Pensamiento Computacional 2025-B  
+# Pensamiento Computacional 2025-B  
 
 **Repo de tareas y ejercicios para clase de Pensamiento Computacional, Escuela de la Diseño, Pontificia Universidad Católica de Chile.**.  
 
@@ -20,26 +20,25 @@ En este curso los estudiantes aplicarán los conceptos básicos del trabajo con 
 Puede sufrir modificaciones según avanza el semestre.  
 
 **M1- Introducción al Pensamiento Computacional (5 Sesiones)**.  
-s01: Presentación Curso.  
-s02: Qué Es Pensar.  
-s03: Hist. Computación General, Hist. Computación Chile.  
-s04: ¿Qué es computar: procesar señales y símbolos.  
-s05: Hardware-Software.   
-s06: P01 Presentaciones.   
+s01: Intro: Presentación Curso. Qué Es Pensar.   
+s02: Intro: Hist. Computación Global, Hist. Computación Chile.  
+s03: Intro: ¿Qué es computar?: procesar señales y símbolos.  
+s04: Intro: Hardware-Software.   
+s05: Intro: P01 Presentaciones.   
 
 **M2- Medios en el Computador (5 Sesiones)**.  
-s07: Panorama Computación, Arte y Diseño. Como funciona la web.  
-s08: Texto Y Computador: Análisis de Texto y NLP.   
-s09: Imagen Y Computador: Pixeles y más pixeles.  
-s10. Sonido Y Video: Señales y Sistemas. 
-s11: Entrega P02.  
+s06: Medios: Panorama Computación, Arte y Diseño. Cómo funciona la web.  
+s07: Medios: Texto Y Computador: Análisis de Texto y NLP.   
+s08: Medios: Imagen Y Computador: Pixeles y más pixeles.  
+s09. Medios: Sonido Y Video: Señales y Sistemas. 
+s10: Medios: P02 Presentaciones.   
 
 **M3- Datos y Aprendizaje de Máquina (5 Sesiones + 1 entrega final)**.    
 s12: Datos: Formatos y Tipos.   
-s13: CLASE: Datos: Analisis y Visualización. Actividad Rawgraphs.    
+s13: Datos: Analisis y Visualización. Actividad Rawgraphs.   
 s14: Datos: Network Science y Redes Complejas.  
-s15: Machine Learning, el verdadero nombre de Inteligencia Artificial.  
-s16: P03 Presentaciones.   
+s15: Datos: ML y DL, el verdadero nombre de Inteligencia Artificial.  
+s16: Datos: P03 Presentaciones.   
 
 
 
