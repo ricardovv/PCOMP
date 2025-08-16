@@ -151,10 +151,14 @@ https://www.freecodecamp.org/espanol/news/git-pull-explicado/
 
 
 **No dar seguimiento a un archivo**. 
-Estpo para que no aparezca en el github (online) pero si puede estar en el local. Hacer esto en el repositorio local y luego subir: 
+Esto para que no aparezca en el github (online) pero si puede estar en el local. Hacer lo siguiente en el repositorio local y luego subir (git push origin main): 
 - Colocar el nombre de archivo en el archivo .gitignore
 - Subir el archivo al repositorio de git hub (git add, git commit, got push orogon main...)
 – remover del repo online (github) con: git rm --cached nombredearchivo.xxx
 - hacer un git commit: git commit -m "removeiendo nombredearchivo.xxx"
 - subir el cambio con git push origin main
 - ir al repo de github y confirmar el cambio. 
+
+**Cambiar nombre de archivo**
+Para cambiar nombre de archoivo desde git local.
+git mv old_file_name.txt new_file_name.txt
