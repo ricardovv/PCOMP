@@ -150,7 +150,7 @@ Les dejo este link si queren saber algo más:
 https://www.freecodecamp.org/espanol/news/git-pull-explicado/
 
 
-**No dar seguimiento a un archivo**. 
+**No dar seguimiento a un archivo:**. 
 Esto para que no aparezca en el github (online) pero si puede estar en el local. Hacer lo siguiente en el repositorio local y luego subir (git push origin main): 
 - Colocar el nombre de archivo en el archivo .gitignore
 - Subir el archivo al repositorio de git hub (git add, git commit, got push orogon main...)
@@ -159,6 +159,6 @@ Esto para que no aparezca en el github (online) pero si puede estar en el local.
 - subir el cambio con git push origin main
 - ir al repo de github y confirmar el cambio. 
 
-**Cambiar nombre de archivo**
-Para cambiar nombre de archoivo desde git local.
+**Cambiar nombre de archivo:**.  
+Para cambiar nombre de archoivo desde git local.   
 git mv old_file_name.txt new_file_name.txt

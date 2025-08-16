@@ -4,24 +4,21 @@ borrar.md
 # M01 - - - 
 M01_Ejercicios/.DS_Store
 M01_Ejercicios/.ipynb_checkpoints
-M01_Ejercicios/M01_E01_Intro_Python.ipynb
-M01_Ejercicios/M01_E02_Intro_Python_sumar_print.ipynb
-M01_Ejercicios/M01_E03_Intro_Python_Bit_ASCII_Formatear.ipynb
-M01_Ejercicios/M01_E04_Intro_Python_Control_Flujo.ipynb
-M01_Ejercicios/M01_E05_Intro_Python_Forma_Color.ipynb
+M01_Ejercicios/M01_E01_Python_Introduccion.ipynbM01_Ejercicios/M01_E02_Python_Sumar_Print.ipynbM01_Ejercicios/M01_E03_Python_Bit_ASCII_Formatear.ipynbM01_Ejercicios/M01_E04_Python_Control_Flujo.ipynbM01_Ejercicios/M01_E05_Python_Forma_Color.ipynb
 # - - - - - - - - - - - - 
 # M02 - - - 
 M02_Ejercicios/.DS_Store
 M02_Ejercicios/P03_ejemplo/.DS_Store
-M02_Ejercicios/M02_E06_Medios_Python_Texto_Strings.ipynb
-M02_Ejercicios/M02_E07_Medios_Python_Texto_Analisis.ipynb
-M02_Ejercicios/M02_E08_Medios_Python_Imagen.ipynb
+M02_Ejercicios/M02_E06_Python_Texto_Strings.ipynbM02_Ejercicios/M02_E07_Python_Texto_Analisis.ipynbM02_Ejercicios/M02_E08_Python_Imagen.ipynb
+M02_Ejercicios/M02_E09_Python_Audio_Video.ipynb
+M02_Ejercicios/M02_E10_Python_Estadistica_Descriptiva.ipynb  
 # - - - - - - - - - - - - 
 # M03 - - - 
 M03_Ejercicios/.DS_Store
 M03_Ejercicios/P03_ejemplo/.DS_Store
 M03_Ejercicios/e11_datos_sucios/.DS_Store
 M03_Ejercicios/e12_datos_vis_anscombe/.DS_Store
-M03_Ejercicios/M03_E11_DatosML_Python_Formatos_Limpiar.ipynb
-M03_Ejercicios/M03_E12_DatosML_Python_Analisis_Visualizar.ipynb
-M03_Ejercicios/M03_E13_DatosML_Python_Networks.ipynb
+M03_Ejercicios/M03_E11_Python_Formatos_Limpiar.ipynb
+M03_Ejercicios/M03_E12_Python_Analisis_Visualizar.ipynb
+M03_Ejercicios/M03_E13_Python_Networks.ipynb
+M03_Ejercicios/M03_E14_Machine_Learning.ipynb 
