@@ -18,7 +18,7 @@ M03_Ejercicios/.DS_Store
 M03_Ejercicios/P03_ejemplo/.DS_Store
 M03_Ejercicios/e11_datos_sucios/.DS_Store
 M03_Ejercicios/e12_datos_vis_anscombe/.DS_Store
-M03_Ejercicios/M03_E11_Python_Formatos_Limpiar.ipynb
-M03_Ejercicios/M03_E12_Python_Analisis_Visualizar.ipynb
-M03_Ejercicios/M03_E13_Python_Networks.ipynb
-M03_Ejercicios/M03_E14_Machine_Learning.ipynb 
+#M03_Ejercicios/M03_E11_Python_Formatos_Limpiar.ipynb
+#M03_Ejercicios/M03_E12_Python_Analisis_Visualizar.ipynb
+#M03_Ejercicios/M03_E13_Python_Networks.ipynb
+M03_Ejercicios/M03_E14_Machine_Learning.ipynb
