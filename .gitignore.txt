@@ -4,7 +4,7 @@ borrar.md
 # M01 - - - 
 M01_Ejercicios/.DS_Store
 M01_Ejercicios/.ipynb_checkpoints
-#M01_Ejercicios/M01_E04_Python_Control_Flujo.ipynbM01_Ejercicios/M01_E05_Python_Forma_Color.ipynb
+#M01_Ejercicios/M01_E04_Python_Control_Flujo.ipynb#M01_Ejercicios/M01_E05_Python_Forma_Color.ipynb
 # - - - - - - - - - - - - 
 # M02 - - - 
 M02_Ejercicios/.DS_Store
