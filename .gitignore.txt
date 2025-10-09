@@ -10,7 +10,7 @@ M01_Ejercicios/.ipynb_checkpoints
 M02_Ejercicios/.DS_Store
 M02_Ejercicios/.ipynb_checkpoints
 M02_Ejercicios/P03_ejemplo/.DS_Store
-#M02_Ejercicios/M02_E06_Python_Texto_Strings.ipynb#M02_Ejercicios/M02_E07_Python_Texto_Analisis.ipynbM02_Ejercicios/M02_E08_Python_Imagen.ipynb
+#M02_Ejercicios/M02_E06_Python_Texto_Strings.ipynb#M02_Ejercicios/M02_E07_Python_Texto_Analisis.ipynb#M02_Ejercicios/M02_E08_Python_Imagen.ipynb
 M02_Ejercicios/M02_E09_Python_Audio_Video.ipynb
 M02_Ejercicios/M02_E10_Python_Estadistica_Descriptiva.ipynb  
 # - - - - - - - - - - - - 
