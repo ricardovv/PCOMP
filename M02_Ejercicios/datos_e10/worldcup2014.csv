@@ -1,0 +1,33 @@
+team,continent,group,group_pos,cantidad_juegos,juegos_ganados,juegos_empatados,juegos_perdidos,goles_favor,goles_contra,goles_diferencia,puntos,clasificado
+Brazil,southamerica,A,1,3,2,1,0,7,2,5,7,1
+Mexico,northamerica,A,2,3,2,1,0,4,1,3,7,1
+Croatia,europe,A,3,3,1,0,2,6,6,0,3,0
+Cameroon,africa,A,4,3,0,0,3,1,9,−8,0,0
+Netherlands,europe,B,1,3,3,0,0,10,3,7,9,1
+Chile,southamerica,B,2,3,2,0,1,5,3,2,6,1
+Spain,europe,B,3,3,1,0,2,4,7,−3,3,0
+Australia,asia,B,4,3,0,0,3,3,9,−6,0,0
+Colombia,southamerica,C,1,3,3,0,0,9,2,7,9,1
+Greece,europe,C,2,3,1,1,1,2,4,−2,4,1
+Ivory Coast,africa,C,3,3,1,0,2,4,5,−1,3,0
+Japan,asia,C,4,3,0,1,2,2,6,−4,1,0
+Costa Rica,northamerica,D,1,3,2,1,0,4,1,3,7,1
+Uruguay,southamerica,D,2,3,2,0,1,4,4,0,6,1
+Italy,europe,D,3,3,1,0,2,2,3,−1,3,0
+England,europe,D,4,3,0,1,2,2,4,−2,1,0
+France,europe,E,1,3,2,1,0,8,2,6,7,1
+Switzerland,europe,E,2,3,2,0,1,7,6,1,6,1
+Ecuador,southamerica,E,3,3,1,1,1,3,3,0,4,0
+Honduras,northamerica,E,4,3,0,0,3,1,8,−7,0,0
+Argentina,southamerica,F,1,3,3,0,0,6,3,3,9,1
+Nigeria,africa,F,2,3,1,1,1,3,3,0,4,1
+Bosnia and Herzegovina,europe,F,3,3,1,0,2,4,4,0,3,0
+Iran,asia,F,4,3,0,1,2,1,4,−3,1,0
+Germany,europe,G,1,3,2,1,0,7,2,5,7,1
+United States,northamerica,G,2,3,1,1,1,4,4,0,4,1
+Portugal,europe,G,3,3,1,1,1,4,7,−3,4,0
+Ghana,africa,G,4,3,0,1,2,4,6,−2,1,0
+Belgium,europe,H,1,3,3,0,0,4,1,3,9,1
+Algeria,africa,H,2,3,1,1,1,6,5,1,4,1
+Russia,europe,H,3,3,0,2,1,2,3,−1,2,0
+South Korea,asia,H,4,3,0,1,2,3,6,−3,1,0

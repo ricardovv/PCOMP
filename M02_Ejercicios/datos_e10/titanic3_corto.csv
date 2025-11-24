@@ -1,0 +1,101 @@
+﻿pclass;survived;name;sex;age;fare
+3;0;Leinonen, Mr. Antti Gustaf;male;32;7,9250
+3;1;Nilsson, Miss. Berta Olivia;female;18;7,7750
+1;0;Beattie, Mr. Thomson;male;36;75,2417
+3;0;Ford, Mr. Edward Watson;male;18;34,3750
+3;0;Tomlin, Mr. Ernest Portage;male;30,5;8,0500
+3;0;Vande Walle, Mr. Nestor Cyriel;male;28;9,5000
+2;0;Carbines, Mr. William;male;19;13,0000
+1;1;Earnshaw, Mrs. Boulton (Olive Potter);female;23;83,1583
+1;0;Borebank, Mr. John James;male;42;26,5500
+3;1;Andersen-Jensen, Miss. Carla Christine Nielsine;female;19;7,8542
+3;1;"Cohen, Mr. Gurshon ""Gus""";male;18;8,0500
+3;0;Jussila, Miss. Mari Aina;female;21;9,8250
+3;1;"Healy, Miss. Hanora ""Nora""";female;;7,7500
+3;1;Jonsson, Mr. Carl;male;32;7,8542
+3;0;Ilieff, Mr. Ylio;male;;7,8958
+1;1;Gracie, Col. Archibald IV;male;53;28,5000
+2;1;"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)";female;29;23,0000
+3;0;Andersson, Mr. Anders Johan;male;39;31,2750
+3;1;Masselmani, Mrs. Fatima;female;;7,2250
+3;0;Danbom, Mr. Ernst Gilbert;male;34;14,4000
+2;1;Bryhl, Miss. Dagmar Jenny Ingeborg ;female;20;26,0000
+2;0;McKane, Mr. Peter David;male;46;26,0000
+3;0;Vander Planke, Miss. Augusta Maria;female;18;18,0000
+3;0;"Petroff, Mr. Pastcho (""Pentcho"")";male;;7,8958
+2;0;Ashby, Mr. John;male;57;13,0000
+1;0;Hays, Mr. Charles Melville;male;55;93,5000
+3;1;Nakid, Mr. Sahid;male;20;15,7417
+3;0;Cacic, Miss. Marija;female;30;8,6625
+3;0;Allen, Mr. William Henry;male;35;8,0500
+2;1;Jerwan, Mrs. Amin S (Marie Marthe Thuillard);female;23;13,7917
+3;0;O'Brien, Mr. Timothy;male;;7,8292
+3;0;Birkeland, Mr. Hans Martin Monsen;male;21;7,7750
+3;0;O'Brien, Mr. Thomas;male;;15,5000
+3;1;Niskanen, Mr. Juha;male;39;7,9250
+3;0;Lockyer, Mr. Edward;male;;7,8792
+3;1;McCormack, Mr. Thomas Joseph;male;;7,7500
+3;1;Nicola-Yarred, Master. Elias;male;12;11,2417
+1;1;Smith, Mrs. Lucien Philip (Mary Eloise Hughes);female;18;60,0000
+3;0;Assam, Mr. Ali;male;23;7,0500
+2;1;Quick, Miss. Phyllis May;female;2;26,0000
+1;1;Rheims, Mr. George Alexander Lucien;male;;39,6000
+1;1;Spedden, Mr. Frederic Oakley;male;45;134,5000
+3;1;Abelseth, Mr. Olaus Jorgensen;male;25;7,6500
+1;0;Clifford, Mr. George Quincy;male;;52,0000
+3;0;Morley, Mr. William;male;34;8,0500
+2;0;Hood, Mr. Ambrose Jr;male;21;73,5000
+3;1;Abrahamsson, Mr. Abraham August Johannes;male;20;7,9250
+2;0;Gaskell, Mr. Alfred;male;16;26,0000
+3;1;Osman, Mrs. Mara;female;31;8,6833
+3;0;Bourke, Miss. Mary;female;;7,7500
+1;1;Cumings, Mrs. John Bradley (Florence Briggs Thayer);female;38;71,2833
+3;0;Vander Cruyssen, Mr. Victor;male;47;9,0000
+2;0;Aldworth, Mr. Charles Augustus;male;30;13,0000
+1;1;Wilson, Miss. Helen Alice;female;31;134,5000
+3;0;Kink, Mr. Vincenz;male;26;8,6625
+2;1;Herman, Mrs. Samuel (Jane Laver);female;48;65,0000
+3;1;Daly, Mr. Eugene Patrick;male;29;7,7500
+3;0;Andersen, Mr. Albert Karvin;male;32;22,5250
+3;0;Demetri, Mr. Marinko;male;;7,8958
+1;1;Tucker, Mr. Gilbert Milligan Jr;male;31;28,5375
+3;0;Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist);female;36;12,1833
+1;1;Barkworth, Mr. Algernon Henry Wilson;male;80;30,0000
+1;1;Daniel, Mr. Robert Williams;male;27;30,5000
+2;0;Hickman, Mr. Leonard Mark;male;24;73,5000
+3;1;McDermott, Miss. Brigdet Delia;female;;7,7875
+3;0;Henriksson, Miss. Jenny Lovisa;female;28;7,7750
+3;0;Ivanoff, Mr. Kanio;male;;7,8958
+2;0;Karnes, Mrs. J Frank (Claire Bennett);female;22;21,0000
+3;1;Hirvonen, Miss. Hildur E;female;2;12,2875
+3;0;"Lovell, Mr. John Hall (""Henry"")";male;20,5;7,2500
+2;0;Swane, Mr. George;male;18,5;13,0000
+3;0;Johansson, Mr. Nils;male;29;7,8542
+2;0;Howard, Mrs. Benjamin (Ellen Truelove Arman);female;60;26,0000
+2;0;Howard, Mr. Benjamin;male;63;26,0000
+3;0;Rosblom, Mr. Viktor Richard;male;18;20,2125
+2;0;Angle, Mr. William A;male;34;26,0000
+2;1;Shelley, Mrs. William (Imanita Parrish Hall);female;25;26,0000
+2;0;Faunthorpe, Mr. Harry;male;40;26,0000
+3;0;Johnson, Mr. Alfred;male;49;0,0000
+3;0;Jensen, Mr. Svend Lauritz;male;17;7,0542
+1;1;Eustis, Miss. Elizabeth Mussey;female;54;78,2667
+3;0;Flynn, Mr. James;male;;7,7500
+3;0;Khalil, Mr. Betros;male;;14,4542
+2;1;Harris, Mr. George;male;62;10,5000
+3;0;Kelly, Mr. James;male;34,5;7,8292
+3;0;Lindblom, Miss. Augusta Charlotta;female;45;7,7500
+3;0;Markun, Mr. Johann;male;33;7,8958
+2;1;Beane, Mr. Edward;male;32;26,0000
+3;0;Kelly, Mr. James;male;44;8,0500
+1;1;Saalfeld, Mr. Adolphe;male;;30,5000
+3;1;Abrahim, Mrs. Joseph (Sophie Halaut Easu);female;18;7,2292
+3;0;Oreskovic, Mr. Luka;male;20;8,6625
+3;1;Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson);female;22;13,9000
+2;0;de Brito, Mr. Jose Joaquim;male;32;13,0000
+1;0;Payne, Mr. Vivian Ponsonby;male;23;93,5000
+2;1;Quick, Miss. Winifred Vera;female;8;26,0000
+3;0;Olsson, Mr. Nils Johan Goransson;male;28;7,8542
+3;1;Kink-Heilmann, Mr. Anton;male;29;22,0250
+1;1;Goldenberg, Mrs. Samuel L (Edwiga Grabowska);female;;89,1042
+3;0;Adahl, Mr. Mauritz Nils Martin;male;30;7,2500
